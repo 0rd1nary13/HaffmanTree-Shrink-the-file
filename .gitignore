@@ -1,0 +1,9 @@
+# editor / system
+.cache/
+.config/
+.local/
+
+# build artifacts
+*.o
+compress
+uncompress
